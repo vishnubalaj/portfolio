@@ -1,0 +1,20 @@
+.main{  
+    background-image: url( img.vdeo/img.vdeo/img.vdeo/img.vdeo/background10.jpg);
+    background-repeat: no-repeat;
+    background-size:cover ;
+ 
+    
+}
+
+.main-1{
+    display: flex;
+    gap: 50px;
+    margin-left: 77%;
+    font-style: italic;
+    font-family: fantasy;   
+}
+a{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 15px;
+}

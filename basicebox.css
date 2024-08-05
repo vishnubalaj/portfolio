@@ -1,0 +1,16 @@
+.main{
+    border: 1px solid;
+    width: 70%;
+    height: 289px;
+    padding: 20px 30px 40px 50px;
+    margin: 20px 30px 40px 50px;
+    background-color: turquoise;
+    color: white;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    margin: 110px;
+    border: 10px solid;
+
+}
+

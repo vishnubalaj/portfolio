@@ -1,0 +1,35 @@
+.main{
+    background-image: url();
+}
+.main-1{
+    width: 433px;
+    margin-left: 40%;
+    margin-top: 7%;
+    display: grid;
+    grid-template-columns: auto auto;
+    height: 346px;
+    row-gap: 18px
+}
+.mm{
+    display: contents;
+}
+.n{
+     
+}
+
+
+
+
+.main{
+    background-image: url(img.vdeo/img.vdeo/img.vdeo/img.vdeo/ba.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.mmm{
+    position: absolute;
+    top: 8px;
+    left: 49%;
+}
+
+
+  

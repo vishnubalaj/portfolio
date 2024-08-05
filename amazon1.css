@@ -1,0 +1,41 @@
+.main{
+
+display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: aqua;
+}
+    
+
+.main-1{
+    display: flex;
+    gap: 30px;
+    text-decoration: none;color: black;
+
+}
+.main-2{
+    background-color: darkcyan;
+    width: 20%;
+    height: 602px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    
+    
+}
+.main-3{
+    margin-top: 262px;
+    
+}
+.dropdown{
+    margin-left: -39%;
+    margin-top: 0%;
+}
+
+.main-5{
+    position: relative;
+}
+.main-5 :hover {
+position: absolute;
+}

@@ -1,0 +1,14 @@
+.main1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: x-large;
+    background-color: darkturquoise;
+    font-style: oblique;
+}
+.main2{
+    background-color: aqua;
+    font-size: 35px;
+    margin-right: 80%;
+    
+}

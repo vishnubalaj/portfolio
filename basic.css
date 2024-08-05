@@ -1,0 +1,14 @@
+.hi{
+    background-color: red;
+    font-size: 50px;
+    font-family:cursive;
+    color: antiquewhite;
+    text-align: left;
+}
+.bye{
+    background-color: black;
+    font-size: 50px;
+    font-family: cursive;
+    color: aqua;
+    text-align: right;
+}

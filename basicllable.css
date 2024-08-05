@@ -1,0 +1,17 @@
+.main{
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 110px;
+    width: 70%;
+    height: 234px;
+    text-align: center;
+    border: 1px solid;
+    padding: 20px 30px 40px 50px;
+    margin: 20px 30px 40px 50px;
+    background: darkslategray;
+    color: aqua;
+}
+
+    

@@ -1,0 +1,50 @@
+.main{  
+    background-image: url( img.vdeo/img.vdeo/img.vdeo/img.vdeo/background10.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+ 
+    
+}
+
+.main-1{
+    font-style: italic;
+    display: flex;
+    gap: 50px;
+    margin-left: 77%;
+    font-family: fantasy;
+}
+.main-2{
+    margin-left: 75%;
+    margin-top: 14%;
+    
+
+}
+.card-face-one {
+    background-size: cover;
+    height: 200px;
+    width: 300px; 
+    margin-left: -281%;
+    margin-top: -141%;
+    
+    transform: translateY(100px);   
+    transition: all 0.5s ease-in-out; 
+
+     
+}
+.card-face-two {
+    
+    background-color: rgb(173, 173,173,);
+    height: 200px;
+    width: 300px;
+    margin-left: -281%
+    
+    
+}
+.card-face-one:active{
+    transform: translateY(-1px);
+}
+a{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 15px;
+}
